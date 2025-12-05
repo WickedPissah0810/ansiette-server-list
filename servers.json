@@ -1,8 +1,1 @@
-{
-    "servers": [
-        {
-            "name": "WickedPissah0810s Server",
-            "address": "https://anisette-v3-server-nepn.onrender.com"
-        }
-    ]
-}
+{"servers": {"name": "WickedPissah0810s Server","address": "https://anisette-v3-server-nepn.onrender.com"}]}
